@@ -288,6 +288,3 @@ if __name__ == "__main__":
         print("Wrong Vote. Please Enter Only 1, 2 or 3.")
 
     print("\nProccess End.")
-
-if __name__ == __main__:
-    debug=True
